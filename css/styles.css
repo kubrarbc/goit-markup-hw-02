@@ -21,7 +21,7 @@ body{
         letter-spacing: 2%;
         line-height: 60px;
     }
-    .button{
+    .button .link:hover{
         color: white;
         background-color: #4D5AE5;
         letter-spacing: 4px;
