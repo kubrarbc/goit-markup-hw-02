@@ -7,9 +7,10 @@ body{
     .site-nav .link:hover, .site-nav .link:active {
         color: #4D5AE5;
     }
-    .contact:hover{
+    .contact .link:hover{
         color: #4D5AE5;
     }
+
     .post1{
             color: white;
             background-color: #2E2F42;
@@ -21,19 +22,23 @@ body{
         letter-spacing: 2%;
         line-height: 60px;
     }
-    .button .link:hover{
+    .button{
         color: white;
         background-color: #4D5AE5;
         letter-spacing: 4px;
         cursor: pointer
     }
+    .button .link:hover, .button .link:active{
+        background-color: #404BBF;
+
+    }
    .section1-title{
-    font-weight: 500;
+    font-weight: 700;
     font-size: 20px;
     letter-spacing: 2%;
     text-align: left;
    }
-   section1-text{
+   .section1-text{
     text-align: left;
    }
    .post2{
