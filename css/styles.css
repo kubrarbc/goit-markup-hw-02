@@ -5,6 +5,9 @@ body{
     font-size: 16px;
     line-height: 1.5;
     }
+    .accent{
+        color:#404BBF;
+    }
     .site-nav .link:hover, .site-nav .link:active {
         color: #4D5AE5;
         text-decoration: none;
@@ -17,6 +20,7 @@ body{
     .post1{
             color: white;
             background-color: #2E2F42;
+            list-style: none
             text-align: center;
         }
     .title{
@@ -43,9 +47,11 @@ body{
     text-align: left;
    }
    .section1-text{
+    list-style: none;
     text-align: left;
    }
    .post2{
+    list-style: none
     background-color: #F4F4FD;
    }
    .header2{
@@ -56,6 +62,10 @@ body{
  .section2-title{
     font-weight: 500;
     letter-spacing: 0.02;
+    list-style: none;
+ }
+ .post3{
+    list-style: none
  }
 .section3-title{
     font-weight: 500;
