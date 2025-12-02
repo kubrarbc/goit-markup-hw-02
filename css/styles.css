@@ -20,7 +20,7 @@ body{
     .post1{
             color: white;
             background-color: #2E2F42;
-            list-style: none
+            list-style: none;
             text-align: center;
         }
     .title{
@@ -34,11 +34,10 @@ body{
         background-color: #4D5AE5;
         letter-spacing: 4px;
         line-height: 1.5;
-        cursor: pointer
+        cursor: pointer;
     }
     .button .link:hover, .button .link:active{
         background-color: #404BBF;
-
     }
    .section1-title{
     font-weight: 500;
@@ -58,21 +57,20 @@ body{
     font-weight: 700;
     font-size: 36px;
     text-align: center;
- }
+}
  .section2-title{
     font-weight: 500;
     letter-spacing: 0.02;
     list-style: none;
  }
  .post3{
-    list-style: none
+    list-style: none;
  }
 .section3-title{
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02;
     text-align: left;
-
 }
 .section3-text{
     text-align: left;
