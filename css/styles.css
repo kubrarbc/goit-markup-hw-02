@@ -8,13 +8,24 @@ body{
     .accent{
         color:#404BBF;
     }
+    .site-nav{
+        color: #2E2F42;
+        font-weight: 700;
+        text-decoration: none;
+    }
     .site-nav .link:hover, .site-nav .link:active {
         color: #4D5AE5;
+    }
+    .contact{
+        color: #2E2F42;
+        font-size: 12px;
         text-decoration: none;
+        letter-spacing: 0.04;
+
     }
     .contact .link:hover{
         color: #4D5AE5;
-        text-decoration: none;
+        
     }
     .post1{
             color: white;
