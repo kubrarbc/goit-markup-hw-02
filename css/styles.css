@@ -5,8 +5,13 @@ body{
     font-size: 16px;
     line-height: 1.5;
     }
+    header{
+        text-decoration: none;
+        list-style: none;
+    }
     ul{
         text-decoration: none;
+        list-style: none;
     }
     .accent{
         color:#404BBF;
@@ -24,11 +29,9 @@ body{
         font-size: 12px;
         text-decoration: none;
         letter-spacing: 0.04;
-
     }
     .contact .link:hover{
         color: #4D5AE5;
-        
     }
     .post1{
             color: white;
@@ -57,15 +60,15 @@ body{
     font-size: 20px;
     letter-spacing: 0.02;
     text-align: left;
-   }
+}
    .section1-text{
     list-style: none;
     text-align: left;
-   }
+}
    .post2{
     list-style: none;
     background-color: #F4F4FD;
-   }
+}
    .header2{
     font-weight: 700;
     font-size: 20px;
@@ -75,10 +78,10 @@ body{
     font-weight: 500;
     letter-spacing: 0.02;
     list-style: none;
- }
+}
  .post3{
     list-style: none;
- }
+}
 .section3-title{
     font-weight: 500;
     font-size: 20px;
