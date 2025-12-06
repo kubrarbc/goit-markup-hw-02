@@ -81,7 +81,7 @@ body{
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 0.002em;
-    text-align: center;
+    text-align: left;
     }
     .text1{
     list-style: none;
@@ -90,6 +90,7 @@ body{
 .post2{
     list-style: none;
     background-color: #F4F4FD;
+    text-align: center;
 }
 .header2{
     font-weight: 700;
