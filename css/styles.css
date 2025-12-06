@@ -69,6 +69,11 @@ body{
     .button .button:hover, .button .button:active{
         background-color: #404BBF;
     }
+    .post2 {
+        list-style: none;
+        background-color: #F4F4FD;
+        text-align: center;
+        }
     .h2{
         font-weight: 700;
         font-size: 36px;
@@ -86,11 +91,6 @@ body{
     .text1{
     list-style: none;
     text-align: left;
-}
-.post2{
-    list-style: none;
-    background-color: #F4F4FD;
-    text-align: center;
 }
 .header2{
     font-weight: 700;
