@@ -38,14 +38,14 @@ body{
     .site-nav .link:hover, .site-nav .link:active{
         color: #4D5AE5;
     }
-    .adress{
+    .adress .contact{
         color: inherit;
         font-size: 12px;
         font-style: normal;
         text-decoration: none;
         letter-spacing: 0.04em;
     }
-    .adress:hover{
+        .adress .contact:hover{
         color: #4D5AE5;
     }
     .post1{
