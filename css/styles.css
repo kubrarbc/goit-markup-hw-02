@@ -67,7 +67,7 @@ body{
         line-height: 1.5;
         cursor: pointer;
     }
-    .button .button:hover, .button .button:active{
+    .post1 .button:hover, .post1 .button:active{
         background-color: #404BBF;
     }
     .post2 {
