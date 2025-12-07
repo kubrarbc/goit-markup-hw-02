@@ -30,17 +30,18 @@ body{
         color: #404BBF;
 
     }
-    .site-nav{
+    .site-nav .link{
         color: #2E2F42;
         font-weight: 700;
         text-decoration: none;
     }
-    .site-nav .site-nav:hover, .site-nav .site-nav:active{
+    .site-nav .link:hover, .site-nav .link:active{
         color: #4D5AE5;
     }
     .adress{
         color: inherit;
         font-size: 12px;
+        font-style: normal;
         text-decoration: none;
         letter-spacing: 0.04em;
     }
