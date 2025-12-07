@@ -30,12 +30,12 @@ body{
         color: #404BBF;
 
     }
-    .site-nav{
+    .link{
         color: #2E2F42;
         font-weight: 700;
         text-decoration: none;
     }
-    .site-nav .site-nav:hover, .site-nav .site-nav:active{
+    link .link:hover, .link .link:active{
         color: #4D5AE5;
     }
     .adress{
